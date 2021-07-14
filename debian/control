@@ -1,7 +1,7 @@
 Source: wireless-regdb
 Section: net
 Priority: optional
-Maintainer: Seth Forshee <seth.forshee@canonical.com>
+Maintainer: Seth Forshee <seth@forshee.me>
 Build-Depends: debhelper-compat (= 12),
  openssl,
  python3,
