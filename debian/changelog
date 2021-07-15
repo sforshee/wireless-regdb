@@ -1,14 +1,10 @@
-wireless-regdb (2020.11.20-0ubuntu1~12.04.4) precise; urgency=medium
+wireless-regdb (2021.07.14-0ubuntu1) impish; urgency=medium
 
-  * Backport to precise (LP: #1906404)
-    - Change debhelper compat to 9.
-    - Use python2 instead of python3.
-    - Install upstream public key as it is not installed by crda.
-    - Use python to read db size as od does not support byte order
-      conversion.
-    - Fix up dd commands to avoid using flags not supported in precise.
+  * New upstream version 2021.07.14 (LP: #1936255)
+  * debian/gbp.conf: Add upstream tag format
+  * debian/control: Update maintainer email address
 
- -- Seth Forshee <seth.forshee@canonical.com>  Thu, 03 Dec 2020 08:57:48 -0600
+ -- Seth Forshee <seth@forshee.me>  Wed, 14 Jul 2021 15:47:05 -0500
 
 wireless-regdb (2020.11.20-0ubuntu1) hirsute; urgency=medium
 
