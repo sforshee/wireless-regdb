@@ -1,3 +1,9 @@
+wireless-regdb (2021.07.14-0ubuntu1~16.04.1) xenial; urgency=medium
+
+  * Backport to xenial (LP: #1936255)
+
+ -- Seth Forshee <seth@forshee.me>  Thu, 15 Jul 2021 08:59:09 -0500
+
 wireless-regdb (2021.07.14-0ubuntu1) impish; urgency=medium
 
   * New upstream version 2021.07.14 (LP: #1936255)
