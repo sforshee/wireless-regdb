@@ -1,8 +1,10 @@
-wireless-regdb (2020.11.20-0ubuntu1~20.10.1) groovy; urgency=medium
+wireless-regdb (2021.07.14-0ubuntu1) impish; urgency=medium
 
-  * Backport to groovy (LP: #1906404)
+  * New upstream version 2021.07.14 (LP: #1936255)
+  * debian/gbp.conf: Add upstream tag format
+  * debian/control: Update maintainer email address
 
- -- Seth Forshee <seth.forshee@canonical.com>  Tue, 01 Dec 2020 08:09:13 -0600
+ -- Seth Forshee <seth@forshee.me>  Wed, 14 Jul 2021 15:47:05 -0500
 
 wireless-regdb (2020.11.20-0ubuntu1) hirsute; urgency=medium
 
