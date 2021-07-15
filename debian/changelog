@@ -1,3 +1,9 @@
+wireless-regdb (2021.07.14-0ubuntu1~14.04.1) trusty; urgency=medium
+
+  * Backport to trusty (LP: #1936255)
+
+ -- Seth Forshee <seth@forshee.me>  Thu, 15 Jul 2021 09:24:39 -0500
+
 wireless-regdb (2021.07.14-0ubuntu1) impish; urgency=medium
 
   * New upstream version 2021.07.14 (LP: #1936255)
