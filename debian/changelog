@@ -1,3 +1,9 @@
+wireless-regdb (2021.07.14-0ubuntu1~20.10.1) groovy; urgency=medium
+
+  * Backport to groovy (LP: #1936255)
+
+ -- Seth Forshee <seth@forshee.me>  Thu, 15 Jul 2021 08:44:50 -0500
+
 wireless-regdb (2021.07.14-0ubuntu1) impish; urgency=medium
 
   * New upstream version 2021.07.14 (LP: #1936255)
