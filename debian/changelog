@@ -1,8 +1,8 @@
-wireless-regdb (2021.07.14-0ubuntu1~21.04.1) hirsute; urgency=medium
+wireless-regdb (2021.08.28-0ubuntu1) impish; urgency=medium
 
-  * Backport to hirsute (LP: #1936255)
+  * New upstream version 2021.08.28 (LP: #1941955)
 
- -- Seth Forshee <seth@forshee.me>  Wed, 14 Jul 2021 16:02:21 -0500
+ -- Seth Forshee <seth@forshee.me>  Sat, 28 Aug 2021 11:56:48 -0500
 
 wireless-regdb (2021.07.14-0ubuntu1) impish; urgency=medium
 
