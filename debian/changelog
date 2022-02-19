@@ -1,3 +1,9 @@
+wireless-regdb (2022.02.18-0ubuntu1~20.04.1) focal; urgency=medium
+
+  * Backport to focal (LP: #1961483)
+
+ -- Seth Forshee <seth@forshee.me>  Sat, 19 Feb 2022 13:53:15 -0600
+
 wireless-regdb (2022.02.18-0ubuntu1) jammy; urgency=medium
 
   * New upstream version 2022.02.18 (LP: #1961483)
