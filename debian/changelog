@@ -1,3 +1,9 @@
+wireless-regdb (2022.06.06-0ubuntu1) kinetic; urgency=medium
+
+  * New upstream version 2022.06.06 (LP: #1980145)
+
+ -- Seth Forshee <seth@forshee.me>  Wed, 29 Jun 2022 08:23:01 -0500
+
 wireless-regdb (2021.08.28-0ubuntu2) kinetic; urgency=medium
 
   * d/control: Remove suggestion to crda since this package was removed
