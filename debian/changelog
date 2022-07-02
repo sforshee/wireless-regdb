@@ -1,3 +1,9 @@
+wireless-regdb (2022.06.06-0ubuntu1~18.04.1) bionic; urgency=medium
+
+  * Backport to bionic (LP: #1980145)
+
+ -- Seth Forshee <seth@forshee.me>  Sat, 02 Jul 2022 16:08:13 -0500
+
 wireless-regdb (2022.06.06-0ubuntu1) kinetic; urgency=medium
 
   * New upstream version 2022.06.06 (LP: #1980145)
