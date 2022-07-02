@@ -1,7 +1,8 @@
 Source: wireless-regdb
 Section: net
 Priority: optional
-Maintainer: Seth Forshee <seth@forshee.me>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Seth Forshee <seth@forshee.me>
 Build-Depends: debhelper (>= 11),
  openssl,
  python,
