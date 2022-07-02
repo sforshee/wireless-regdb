@@ -1,3 +1,9 @@
+wireless-regdb (2022.06.06-0ubuntu1~21.10.1) impish; urgency=medium
+
+  * Backport to impish (LP: #1980145)
+
+ -- Seth Forshee <seth@forshee.me>  Sat, 02 Jul 2022 15:48:57 -0500
+
 wireless-regdb (2022.06.06-0ubuntu1) kinetic; urgency=medium
 
   * New upstream version 2022.06.06 (LP: #1980145)
